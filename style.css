@@ -1,0 +1,41 @@
+  .bd-placeholder-img {
+      font-size: 3px;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+  }
+  
+  @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+      }
+  }
+  
+  .well {
+      background-color: #222;
+      padding: 20px;
+      margin: 15px;
+      text-align: center;
+  }
+  
+  .btn {
+      margin-right: 5rem;
+      margin-left: 5rem;
+  }
+  .jumbotron
+  {
+    background-color: #222;
+    color: aliceblue;
+  }
+  .container{
+    background-color: #222;
+    color: white;
+  }
+  form{
+    background-color: #222;
+  }
+  input
+  {
+    border-radius: 70px;
+  }
